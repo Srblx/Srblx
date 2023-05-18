@@ -7,7 +7,7 @@
 <h3>Bienvenue !</h3> 
 
 
-Je m'appelle Alexis Serbelloni je suis un développeur web, de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Marseille, en France.</b>
+Je m'appelle Alexis, je suis un développeur web de  <b>Marseille. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></b>
 <br> Je suis actuellement un apprenant en <b>"Développement Web et Web Mobile"</b>.
 <br> Ayant acquis une expérience de trois ans en autodidacte à plein temps 
 dans le domaine de la <b>Crypto-monnaie</b> et la <b>blockchain.</b> <br> 
