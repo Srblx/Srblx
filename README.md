@@ -13,7 +13,7 @@ Je m'appelle Alexis Serbelloni je suis un développeur web, de <img src="https:/
 dans le domaine de la <b> blockchain.</b> <br> 
 Je suis passionné par le <b> web, la blockchain et la crypto-monnaie.</b> 
  <br>  J'aime expérimenter, découvrir et apprendre de nouvelles technologies innovantes.  
-<br> Je vais vous présenter ici mes compétences, mon parcours ainsi que mes principales intégrations et créations.<br> <b>POur toute question n'hésitez pas à me contacter 💬.</b>
+<br> Je vais vous présenter ici mes compétences, mon parcours ainsi que mes principales intégrations et créations.<br> <b>POur toute question n'hésitez pas à me contacter 💬.</b><br>
  📫 Serbelloni.a@outlook.fr
 
 
