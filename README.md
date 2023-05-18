@@ -13,7 +13,7 @@ Je m'appelle Alexis, je suis un développeur web de  <b>Marseille. <img src="htt
 dans le domaine de la <b>Crypto-monnaie</b> et la <b>blockchain.</b> <br> 
 Je suis passionné par le <b> web, la blockchain et la crypto-monnaie.</b> 
  <br>  J'aime expérimenter, découvrir et apprendre de nouvelles technologies innovantes.  
-<br> Je vais vous présenter ici mes compétences, mon parcours ainsi que mes principales intégrations et créations.<br> 
+<br> Voici quelques une de mes compétences, acquis la de mon parcours ainsi que mes principales intégrations et créations.<br> 
  <b>Pour toute question n'hésitez pas à me contacter 💬.</b><br>
  📫 Serbelloni.a@outlook.fr
 
