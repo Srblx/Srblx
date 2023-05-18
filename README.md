@@ -4,7 +4,7 @@
 
 <samp> 
 
-<h3>Bienvenue !</h3> 
+<h3>Bienvenue</h3> 
 
 
 Je m'appelle Alexis, je suis un développeur web de  <b>Marseille. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></b>
