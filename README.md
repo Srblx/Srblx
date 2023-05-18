@@ -69,10 +69,10 @@ Je suis passionné par le <b> web, la blockchain et la crypto-monnaie.</b>
 
 <h3>Pendant mon temps libre j'aime :</h3>
 
-![Horlogerie](https://img.shields.io/badge/Horlogerie-FFFFFF?style=for-the-badge&logo=watch&logoColor=black)
 ![Lecture](https://img.shields.io/badge/lecture-717171?style=for-the-badge&logo=book&logoColor=white)
+![Horlogerie](https://img.shields.io/badge/Horlogerie-b5b5b5?style=for-the-badge&logo=watch&logoColor=black)
+![Blockchain](https://img.shields.io/badge/Blockchain-blue?style=for-the-badge&logo=Solidity&logoColor=white)
 ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
-![YouTube](https://img.shields.io/badge/Blockchain-blue?style=for-the-badge&logo=Solidity&logoColor=white)
 
 
 </samp>
