@@ -65,7 +65,8 @@ Je suis passionné par le <b> web, la blockchain et la crypto-monnaie.</b>
 
 [![Srblx GitHub stats](https://github-readme-stats.vercel.app/api?username=srblx&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&ring_color=FFFFFF&bg_color=373737&title_color=4e44ff&icon_color=18b528&text_color=4e44ff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srblx&layout=compact)(https://github-readme-stats.vercel.app/api/top-langs/?username=srblx&layout=compact&langs_count=6&custom_title=Language%20Utilis%C3%A9&bg_color=373737&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srblx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srblx&layout=compact&langs_count=6&custom_title=Language%20Utilis%C3%A9&bg_color=373737&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Pendant mon temps libre j'aime :</h3>
 
