@@ -10,10 +10,11 @@
 Je m'appelle Alexis Serbelloni je suis un développeur web, de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Marseille, en France.</b>
 <br> Je suis actuellement un apprenant en <b>"Développement Web et Web Mobile"</b>.
 <br> Ayant acquis une expérience de trois ans en autodidacte à plein temps 
-dans le domaine de la <b> blockchain.</b> <br> 
+dans le domaine de la <b>Crypto-monnaie</b> et la <b>blockchain.</b> <br> 
 Je suis passionné par le <b> web, la blockchain et la crypto-monnaie.</b> 
  <br>  J'aime expérimenter, découvrir et apprendre de nouvelles technologies innovantes.  
-<br> Je vais vous présenter ici mes compétences, mon parcours ainsi que mes principales intégrations et créations.<br> <b>POur toute question n'hésitez pas à me contacter 💬.</b><br>
+<br> Je vais vous présenter ici mes compétences, mon parcours ainsi que mes principales intégrations et créations.<br> 
+ <b>Pour toute question n'hésitez pas à me contacter 💬.</b><br>
  📫 Serbelloni.a@outlook.fr
 
 
