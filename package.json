@@ -1,0 +1,22 @@
+{
+    "name": "srblx",
+    "version": "1.0.0",
+    "description": "I represent myself as a penguin 🐧 and I work at QoQa.ch as otter 🦦. Web, mobile backend, I try to touch everything. I prefer the web for now.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Srblx/Srblx.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Srblx/Srblx/issues"
+    },
+    "homepage": "https://github.com/Srblx/Srblx#readme",
+    "devDependencies": {
+      "eslint": "^7.30.0"
+    }
+  }
