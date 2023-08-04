@@ -8,10 +8,10 @@
 
 
 Je m'appelle Alexis, je suis un développeur web de  <b>Marseille. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></b>
-<br> Je suis actuellement un apprenant en <b>"Développement Web et Web Mobile"</b>.
-<br> Ayant acquis une expérience de trois ans en autodidacte à plein temps 
+<br>Récemment, j'ai terminé une formation en <b>"Développement Web et Web Mobile"</b>.
+<br> Ayant acquis une expérience de deux ans en autodidacte à plein temps 
 dans le domaine de la <b>Crypto-monnaie</b> et la <b>blockchain.</b> <br> 
-Je suis passionné par le <b> web, la blockchain et la crypto-monnaie.</b> 
+Je suis passionné par le <b> web, la blockchain et les crypto-monnaies.</b> 
  <br>  J'aime expérimenter, découvrir et apprendre de nouvelles technologies innovantes.  
 <br> Voici quelques une de mes compétences, acquis la de mon parcours ainsi que mes principales intégrations et créations.<br> 
  <b>Pour toute question n'hésitez pas à me contacter 💬.</b><br>
