@@ -79,9 +79,9 @@ Je suis passionné par le <b> web, la blockchain et les crypto-monnaies.</b>
 
 </samp>
 
-Last update on Sun Aug 5 2023
+Last update on Sat 13 aug 2023
 
-**149 day before 2024 ⏱** days before new years
+**141 day before 2024 ⏱** days before new years
 
 🤖 This README.md is updated with hate, by Bawata ❤️
 
