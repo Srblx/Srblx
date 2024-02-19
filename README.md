@@ -19,9 +19,9 @@ Développeur Web/Mobile/BlockChain  <b>Marseillais <img src="https://cdn-icons-p
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![React]([https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/React-000066?style=for-the-badge&logo=React&logoColor=74D0F1))
+![React](https://img.shields.io/badge/React-000066?style=for-the-badge&logo=React&logoColor=74D0F1)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScirpt]([https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img.shields.io/badge/typescript-1E7FCB.svg?style=for-the-badge&logo=typescript&logoColor=black))
+![TypeScirpt](https://img.shields.io/badge/typescript-1E7FCB.svg?style=for-the-badge&logo=typescript&logoColor=black)
  <br>
 
 <h3> Je suis actuellement en train d'apprendre :</h3>
