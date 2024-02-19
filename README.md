@@ -38,13 +38,7 @@ Développeur Web/Mobile/BlockChain  <b>Marseillais <img src="https://cdn-icons-p
  <br>
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-
- <h3>J'utilise également :</h3>
-<br>
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![EtherScan](https://img.shields.io/badge/etherscan-2F3134?style=for-the-badge&logo=Ethereum&logoColor=white)
+</br>
 
 [![Srblx GitHub stats](https://github-readme-stats.vercel.app/api?username=srblx&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&ring_color=FFFFFF&bg_color=373737&title_color=4e44ff&icon_color=18b528&text_color=4e44ff)](https://github.com/anuraghazra/github-readme-stats)
 
