@@ -7,18 +7,11 @@
 <h3>Bienvenue</h3> 
 
 
-Je m'appelle Alexis, je suis un développeur web de  <b>Marseille. <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></b>
-<br>Récemment, j'ai terminé une formation en <b>"Développement Web et Web Mobile"</b>.
-<br> Ayant acquis une expérience de deux ans en autodidacte à plein temps 
-dans le domaine de la <b>Crypto-monnaie</b> et la <b>blockchain.</b> <br> 
-Je suis passionné par le <b> web, la blockchain et les crypto-monnaies.</b> 
- <br>  J'aime expérimenter, découvrir et apprendre de nouvelles technologies innovantes.  
-<br> Voici quelques une de mes compétences, acquis la de mon parcours ainsi que mes principales intégrations et créations.<br> 
+Développeur Web/Mobile/BlockChain  <b>Marseillais <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></b>
  <b>Pour toute question n'hésitez pas à me contacter 💬.</b><br>
  📫 Serbelloni.a@outlook.fr
 
-
-<h3>Je pratique tout les jours :</h3>
+<h3>Je pratique :</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,22 +19,15 @@ Je suis passionné par le <b> web, la blockchain et les crypto-monnaies.</b>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React]([https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/React-000066?style=for-the-badge&logo=React&logoColor=74D0F1))
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScirpt]([https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img.shields.io/badge/typescript-1E7FCB.svg?style=for-the-badge&logo=typescript&logoColor=black))
  <br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-
 
 <h3> Je suis actuellement en train d'apprendre :</h3>
 
-![Symfony](https://img.shields.io/badge/symfony-hotpink.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-3936ff?style=for-the-badge&logo=solidity&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-35ad3b?style=for-the-badge&logo=linux&logoColor=white)
 ![Ganache](https://img.shields.io/badge/ganache-513c0e?style=for-the-badge&logo=ganache&logoColor=white)
  <br>
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
@@ -49,21 +35,10 @@ Je suis passionné par le <b> web, la blockchain et les crypto-monnaies.</b>
 
 
  <h3>J'utilise également :</h3>
-
-![Canva](https://img.shields.io/badge/canva-36b9ff?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-9e0b0b?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 <br>
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![EtherScan](https://img.shields.io/badge/etherscan-2F3134?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
-
-
 
 [![Srblx GitHub stats](https://github-readme-stats.vercel.app/api?username=srblx&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&ring_color=FFFFFF&bg_color=373737&title_color=4e44ff&icon_color=18b528&text_color=4e44ff)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -79,11 +54,5 @@ Je suis passionné par le <b> web, la blockchain et les crypto-monnaies.</b>
 
 </samp>
 
-Last update on wend 16 aug 2023
-
-**138 day before 2024 ⏱** days before new years
-
-🤖 This README.md is updated with hate, by Bawata ❤️
-
-</div>
+ </div>
 
