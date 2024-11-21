@@ -4,7 +4,7 @@
 
 <samp> 
 
-<h3>Bienvenue</h3> 
+<!--<h3>Bienvenue</h3> 
 
 
 Développeur Web/Mobile/BlockChain  <b>Marseillais <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></b>
@@ -12,7 +12,7 @@ Développeur Web/Mobile/BlockChain  <b>Marseillais <img src="https://cdn-icons-p
  📫 Serbelloni.a@outlook.fr
 
 <h3>Je pratique :</h3>
-
+-->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -32,7 +32,7 @@ Développeur Web/Mobile/BlockChain  <b>Marseillais <img src="https://cdn-icons-p
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  <br>
 
-<h3> Je suis actuellement en train d'apprendre :</h3>
+<!--<h3> Je suis actuellement en train d'apprendre :</h3>-->
 
 ![Solidity](https://img.shields.io/badge/solidity-3936ff?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ganache](https://img.shields.io/badge/ganache-513c0e?style=for-the-badge&logo=ganache&logoColor=white)
@@ -45,7 +45,7 @@ Développeur Web/Mobile/BlockChain  <b>Marseillais <img src="https://cdn-icons-p
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srblx&layout=compact&langs_count=6&custom_title=Language%20Utilis%C3%A9&bg_color=373737&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Pendant mon temps libre j'aime :</h3>
+<!-- <h3>Pendant mon temps libre j'aime :</h3> -->
 
 ![Lecture](https://img.shields.io/badge/lecture-717171?style=for-the-badge&logo=book&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-blue?style=for-the-badge&logo=Solidity&logoColor=white)
